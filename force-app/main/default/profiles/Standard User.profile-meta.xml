@@ -10,4 +10,9 @@
         <field>Lead.Follow_Up_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.Lead_Rating__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
